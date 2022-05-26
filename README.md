@@ -1,5 +1,5 @@
 
-# Projeto Zoo Functions!
+# Projeto Zoo Functions
 
 Projeto desenvolvido como encerramento do bloco 8 que abordou as Higher Order Functions do JavaScript ES6.
 
@@ -7,7 +7,7 @@ Projeto desenvolvido como encerramento do bloco 8 que abordou as Higher Order Fu
 
 Utilizar as Higher Order Functions para resolver problemas associados à dados do zoológico que estão contidos no arquivo `zoo_data.js` e também aplicar Testes Unitários usando Jest para validar as funções utilizadas.
 
-### Requisitos Obrigatórios
+### Requisitos
 
 #### 1. Implemente a função `getSpeciesByIds`
 
@@ -334,3 +334,9 @@ Implemente os testes da função <code>handlerElephants</code> para obter 100% d
 #### 16. Obtenha ao menos 100% de cobertura de testes na função `getOpeningHours`
 
 Implemente os testes da função <code>getOpeningHours</code> para obter 100% de cobertura.
+
+---
+
+### Projeto Aprovado!
+
+![Captura de tela de 2022-05-24 09-30-54](https://user-images.githubusercontent.com/98956659/170396786-1eded97f-b26b-49e3-ae73-b650223e8d44.png)
