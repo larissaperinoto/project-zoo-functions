@@ -5,7 +5,7 @@ Projeto desenvolvido como encerramento do bloco 8 que abordou as Higher Order Fu
 
 ### Objetivos
 
-Utilizar as Higher Order Functions para resolver problemas associados à dados do zoológico que estão contidos no arquivo `zoo_data.js` e tamém aplicar Testes Unitários usando Jest para validar as funções utilizadas.
+Utilizar as Higher Order Functions para resolver problemas associados à dados do zoológico que estão contidos no arquivo `zoo_data.js` e também aplicar Testes Unitários usando Jest para validar as funções utilizadas.
 
 ### Requisitos Obrigatórios
 
