@@ -10,7 +10,7 @@ Projeto desenvolvido como encerramento do bloco 8 de estudos na Trybe que abordo
 
 ### Habilidades
 
-Neste projeto foi possível desenvolver as habilidades com o JavaScript ES6 desenvolvendo funções que buscam informalções sobre os animais e os colaboradores do zoológico. Também foi exercitado o desenvolvimento voltado para testes ao utilizarmos o framework [Jest](https://jestjs.io/pt-BR/docs/expect) para testar as funções. Foi ainda utilizado a ferramenta [ESLint](https://github.com/eslint/eslint) para identificar e reportar padrões encontrados no código ECMAScript/JavaScript.
+Neste projeto foi possível desenvolver as habilidades com o JavaScript ES6 desenvolvendo funções que buscam informações sobre os animais e os colaboradores do zoológico. Também foi exercitado o desenvolvimento voltado para testes ao utilizarmos o framework [Jest](https://jestjs.io/pt-BR/docs/expect) para testar as funções. Foi ainda utilizado a ferramenta [ESLint](https://github.com/eslint/eslint) para identificar e reportar padrões encontrados no código ECMAScript/JavaScript.
 
 ### Execução
 
