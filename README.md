@@ -18,7 +18,7 @@ Para exercutar o projeto utilize o comando abaixo para instalar as dependências
 
 	npm install
 
-Para executar os testes é necessário que a versão do nodes na sua máquina seja a 16. Uma vez com a versão correta, é pssível exeutar os testes com o seguinte comando:
+Para executar os testes é necessário que a versão do nodes na sua máquina seja a 16. Uma vez com a versão correta, é possível exeutar os testes com o seguinte comando:
 
 	npm test
 	
